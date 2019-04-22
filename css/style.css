@@ -135,7 +135,7 @@ p {
 	font-size: 16px;
 	font-weight: normal;
 	line-height: 28px;
-	color: #6e6e6e;
+	color: #000000;
 	margin-bottom: 15px;
 }
 hr {
@@ -542,11 +542,12 @@ label {
 }
 .slider-content{}
 .slider-content h1 {
-	font-size:38px;
+	font-size:42px;
 	font-weight: 500;
 	margin-bottom: 18px;
 	line-height: 1.3;
 	margin-top: 20px;
+	text-shadow: 0px 0px 6px rgba(0, 0, 0,0.9); 
 }
 .slider-content span {
 	color: #108377;
@@ -1421,8 +1422,8 @@ padding-bottom:10px;
 }
 .promos-link li:last-child{padding-bottom:0;}
 .promos-text{
-	font-size: 16px;
-	line-height: 32px;
+	font-size: 15px;
+	line-height: 22px;
 	color: #6e6e6e;
 }
 .promos-icon {
@@ -1432,17 +1433,14 @@ padding-bottom:10px;
 }
 .promos-icon i {
 	color: #fff;
-	font-size: 16px;
 	background: #108377;
-	height: 40px;
-	width: 40px;
+	height: 18px;
+	width: 18px;
 	display: inline-block;
 	border-radius: 50%;
 	text-align: center;
-	line-height: 45px;
 	transition:.3s;
 }
-.promos-link li:hover .promos-icon i{background:#1060ff;}
 .promos-text{margin-left:0;overflow:hidden;}
 .promos-img {
 	margin-left: -14px;
@@ -1900,11 +1898,11 @@ padding-bottom:10px;
 	margin-left: -80px;
 }
 .faq-box .btn-link {
-	font-weight: 400;
-	color: #0f1328;
+	font-weight: 500;
+	color: #108377;
 	background-color: #f8f7ff;
 	display: block;
-	font-size: 16px;
+	font-size: 18px;
 	padding: 15px 70px;
 	border: 0;
 	text-decoration: none;
@@ -3837,4 +3835,3 @@ ul.cat li a:hover {
 	cursor: pointer;
 	top: 11px;
 }
-
