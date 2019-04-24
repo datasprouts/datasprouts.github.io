@@ -73,7 +73,7 @@ a:hover,
 }
 a,
 button {
-	color: #1696e7;
+	color: #108377;
 	outline: medium none;
 }
 button:focus,input:focus,input:focus,textarea,textarea:focus{outline: 0}
@@ -206,7 +206,7 @@ label {
 	font-weight: 700;
 	border: 0;
 	border-radius: 0;
-	background: #ee4212;
+	background: #108377;
 }
 .btn:hover{background:#108377;color:#fff;}
 .btn-yellow{
@@ -1397,21 +1397,21 @@ color: #ffffff;
 }
 .promo-text a.btn{}
 .promo-link {
-	margin-top: 22px;
-	margin-bottom: 42px;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
 .promo-link li {
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 32px;
-	color: #6e6e6e;
+	color: #000;
 	display: flex;
-	padding-bottom: 10px;
+	padding-bottom: 0px;
 }
 .promo-link li:last-child{padding-bottom:0;}
 .promo-link li i {
 	margin-top: 8px;
 	margin-right: 11px;
-	color: #6e6e6e;
+	color: #108377;
 	font-size: 14px;
 }
 .promos-link {
@@ -1753,7 +1753,7 @@ padding-bottom:10px;
 	margin-bottom: 26px;
 }
 .newsletters-text p {
-	color: #fff;
+	color: #000;
 	margin-bottom: 0;
 	padding: 0 93px;
 }
@@ -1900,9 +1900,9 @@ padding-bottom:10px;
 .faq-box .btn-link {
 	font-weight: 500;
 	color: #108377;
-	background-color: #f8f7ff;
+	background-color: #ecf5f4;
 	display: block;
-	font-size: 18px;
+	font-size: 20px;
 	padding: 15px 70px;
 	border: 0;
 	text-decoration: none;
@@ -1931,7 +1931,7 @@ padding-bottom:10px;
 	background-clip: border-box;
 	border: 0;
 	border-radius: 0;
-	background: #F8F7FF;
+	background: #ecf5f4;
 	margin-bottom: 20px;
 }
 
@@ -3211,8 +3211,8 @@ ul.cat li a:hover {
 }
 .gallery-layout-text p{margin-bottom:0;}
 .gallery2-layout-bg {
-	padding: 50px;
-	background: #F8F9FD;
+	padding: 30px;
+	background: #ecf5f4;
 	padding-bottom: 25px;
 }
 .gallery2-layout-bg .gallery-layout-info {
@@ -3248,7 +3248,7 @@ ul.cat li a:hover {
 }
 .footer-wrapper{}
 .footer-logo {
-	margin-bottom: 32px;
+	margin-bottom: 16px;
 }
 .footer-text{}
 .footer-text p {
@@ -3627,31 +3627,31 @@ ul.cat li a:hover {
 	height: 50px;
 	width: 100%;
 	border: 1px solid #dfdfdf;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	padding: 0 15px;
 	color: #818a8b;
-	font-size: 17px;
+	font-size: 14px;
 	transition:.3s;
 }
 #question-form input::-moz-placeholder {
   color: #818a8b;
-  font-size: 17px;
+  font-size: 14px;
 }
 #question-form input::placeholder {
   color: #818a8b;
-  font-size: 17px;
+  font-size: 14px;
 }
 #question-form textarea {
 	width: 100%;
 	border: 1px solid #dfdfdf;
-	padding: 15px;
+	padding: 14px;
 	height: 120px;
 	margin-bottom:30px;
 	transition:.3s;
 }
 #question-form textarea::-moz-placeholder {
   color: #818a8b;
-  font-size: 17px;
+  font-size: 14px;
 }
 .question-img {
 	margin-left: 60px;
